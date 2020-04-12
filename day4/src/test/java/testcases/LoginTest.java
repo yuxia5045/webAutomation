@@ -1,5 +1,5 @@
 /*业务层*/
-package com.testing.testcases;
+package testcases;
 
 public class LoginTest {
 }
