@@ -1,0 +1,49 @@
+<!DOCTYPE suite SYSTEM "http://beust.com/testng/testng-1.0.dtd">
+<!--并发方式为tests,线程数为5-->
+<!--并发方式：classes,instances,method
+
+thread-count 线程池数量
+
+　　必须与parallel配套使用，线程池的大小，决定并行线程数量。
+parallel
+
+    该参数的值有：false，methods，tests，classes，instances。默认false
+    parallel=false，不执行并发操作，
+    parallel必须和thread-count配套使用，否则相当于无效参数，thread-count决定了并行测试时开启的线程数量。
+    parallel="mehods" TestNG将并行执行所有的测试方法在不同的线程里
+    parallel="tests" TestNG将并行执行在同一个<test>下的所有方法在不同线程里
+    parallel="classes" TestNG将并行执行在相同<class>下的方法在不同线程里
+    parallel="instances" TestNG将并行执行相同实例下的所有方法在不同的线程里
+
+-->
+<suite name ="suite1" parallel="tests" thread-count="5">
+    <test name="test1">
+        <parameter name="browser" value="ff"/>
+        <parameter name="nodeUrl" value="http://192.168.40.67:5555"/>
+        <parameter name="webSite" value="http://www.baidu.com"/>
+        <classes>
+            <class name ="GridParallelTest"/>
+        </classes>
+
+    </test>
+
+    <test name="test2">
+        <parameter name="browser" value="chrome"/>
+        <parameter name="nodeUrl" value="http://192.168.40.67:6666"/>
+        <parameter name="webSite" value="http://www.baidu.com"/>
+        <classes>
+            <class name ="GridParallelTest"/>
+        </classes>
+    </test>
+
+    <test name="test3">
+        <parameter name="browser" value="ie"/>
+        <parameter name="nodeUrl" value="http://192.168.40.67:7777"/>
+        <parameter name="webSite" value="http://www.baidu.com"/>
+        <classes>
+            <class name ="GridParallelTest"/>
+        </classes>
+    </test>
+
+
+</suite>

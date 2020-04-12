@@ -1,0 +1,870 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="821144da-9cc7-411c-aad5-7d3e4c4b6a6d" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/day3/target/" />
+    <ignored path="$PROJECT_DIR$/day4/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day4/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/testing/BasePage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/testing/UIDemoPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#223#224#0" expanded="true" />
+                <element signature="e#243#244#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day4/src/main/java/com/po/page/LoginPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="32" selection-start-column="32" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/day4/src/main/java/com/testing/testcases/LoginTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/testing/UIDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/testing/UIDemoPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/myTest/testNG.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/testing/BasePage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/testing/FindElementsTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/testing/WindowSelectTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/testing/WebElementsActionTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/testing/ActionTest2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/testing/MyTestCase.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/testing/ExecuteJS.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/testing/Register163Test.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/day3/src/main/java/Register163Test.java" />
+        <option value="$PROJECT_DIR$/day3/src/main/java/GridParallelTest.java" />
+        <option value="$PROJECT_DIR$/day3/src/main/resources/gridparallel-testNg.xml" />
+        <option value="$PROJECT_DIR$/day3/src/main/java/GridTest.java" />
+        <option value="$PROJECT_DIR$/day3/src/main/resources/gridTest-testNg.xml" />
+        <option value="$PROJECT_DIR$/day4/src/main/java/com/po/Loginpage/LoginTest.java" />
+        <option value="$PROJECT_DIR$/day4/src/main/java/com/po/page/LoginTest.java" />
+        <option value="$PROJECT_DIR$/day4/src/main/java/com/po/page/LoginPage.java" />
+        <option value="$PROJECT_DIR$/day4/src/main/java/com/testing/testcases/LoginTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\maven\maven_jar" />
+        <option name="userSettingsFile" value="E:\maven\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="jdkForImporter" value="#JAVA_HOME" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="webAutomationDemo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="webAutomationDemo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="webAutomationDemo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="webAutomationDemo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="webAutomationDemo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+          <item name="org.testng:testng:6.14.3" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="webAutomationDemo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+          <item name="org.seleniumhq.selenium:selenium-java:3.9.1" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="webAutomationDemo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+          <item name="org.seleniumhq.selenium:selenium-java:3.9.1" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
+          <item name="org.seleniumhq.selenium:selenium-firefox-driver:3.9.1" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1091" />
+    <option name="width" value="1217" />
+    <option name="height" value="1053" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="webAutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webAutomation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webAutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webAutomation" type="462c0819:PsiDirectoryNode" />
+              <item name="day4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webAutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webAutomation" type="462c0819:PsiDirectoryNode" />
+              <item name="day4" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webAutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webAutomation" type="462c0819:PsiDirectoryNode" />
+              <item name="day4" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webAutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webAutomation" type="462c0819:PsiDirectoryNode" />
+              <item name="day4" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webAutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webAutomation" type="462c0819:PsiDirectoryNode" />
+              <item name="day4" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="testcases" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webAutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webAutomation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webAutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webAutomation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webAutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webAutomation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webAutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webAutomation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="testing" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webAutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webAutomation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="testing" type="462c0819:PsiDirectoryNode" />
+              <item name="BasePage" type="1a9f42e2:ClassTreeNode" />
+            </path>
+            <path>
+              <item name="webAutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webAutomation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="testing" type="462c0819:PsiDirectoryNode" />
+              <item name="UIDemoPage" type="1a9f42e2:ClassTreeNode" />
+            </path>
+            <path>
+              <item name="webAutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webAutomation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webAutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webAutomation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webAutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webAutomation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="myTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webAutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="webAutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.seleniumhq.selenium:selenium-api:3.9.1" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="webAutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.seleniumhq.selenium:selenium-api:3.9.1" type="70bed36:NamedLibraryElementNode" />
+              <item name="selenium-api-3.9.1.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webAutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.seleniumhq.selenium:selenium-api:3.9.1" type="70bed36:NamedLibraryElementNode" />
+              <item name="selenium-api-3.9.1.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="selenium" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webAutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.seleniumhq.selenium:selenium-api:3.9.1" type="70bed36:NamedLibraryElementNode" />
+              <item name="selenium-api-3.9.1.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="selenium" type="462c0819:PsiDirectoryNode" />
+              <item name="By" type="1a9f42e2:ClassTreeNode" />
+            </path>
+            <path>
+              <item name="webAutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.seleniumhq.selenium:selenium-support:3.9.1" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="webAutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.seleniumhq.selenium:selenium-support:3.9.1" type="70bed36:NamedLibraryElementNode" />
+              <item name="selenium-support-3.9.1.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webAutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.seleniumhq.selenium:selenium-support:3.9.1" type="70bed36:NamedLibraryElementNode" />
+              <item name="selenium-support-3.9.1.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="pagefactory" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webAutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.seleniumhq.selenium:selenium-support:3.9.1" type="70bed36:NamedLibraryElementNode" />
+              <item name="selenium-support-3.9.1.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="pagefactory" type="462c0819:PsiDirectoryNode" />
+              <item name="ByAll" type="1a9f42e2:ClassTreeNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../bin/git.exe" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Git\workspace\bili\webAutomation\.idea\drivers" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Git\workspace\bili\webAutomation" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.Register163Test.failedRegistertest1">
+    <configuration name="ActionTest2.saveASTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="webAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.testing" />
+      <option name="MAIN_CLASS_NAME" value="com.testing.ActionTest2" />
+      <option name="METHOD_NAME" value="saveASTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Register163Test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="day3" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Register163Test" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Register163Test.failedRegistertest1 (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="day3" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Register163Test" />
+      <option name="METHOD_NAME" value="failedRegistertest1" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Register163Test.failedRegistertest1 (2)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="day3" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Register163Test" />
+      <option name="METHOD_NAME" value="failedRegistertest1" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Register163Test.failedRegistertest1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="day3" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Register163Test" />
+      <option name="METHOD_NAME" value="failedRegistertest1" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.Register163Test.failedRegistertest1" />
+        <item itemvalue="TestNG.Register163Test.failedRegistertest1 (2)" />
+        <item itemvalue="TestNG.Register163Test.failedRegistertest1 (1)" />
+        <item itemvalue="TestNG.Register163Test" />
+        <item itemvalue="TestNG.ActionTest2.saveASTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="821144da-9cc7-411c-aad5-7d3e4c4b6a6d" name="Default Changelist" comment="" />
+      <created>1585887962682</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585887962682</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Register163Test_failedRegistertest1 - 2020.04.07 at 13h 11m 50s.xml">
+      <configuration name="Register163Test.failedRegistertest1" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Register163Test_failedRegistertest1_(1) - 2020.04.07 at 13h 13m 36s.xml">
+      <configuration name="Register163Test.failedRegistertest1 (1)" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Register163Test_failedRegistertest1 - 2020.04.07 at 13h 15m 54s.xml">
+      <configuration name="Register163Test.failedRegistertest1" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Register163Test_failedRegistertest1 - 2020.04.07 at 13h 24m 24s.xml">
+      <configuration name="Register163Test.failedRegistertest1" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Register163Test_failedRegistertest1 - 2020.04.07 at 13h 28m 40s.xml">
+      <configuration name="Register163Test.failedRegistertest1" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Register163Test_failedRegistertest1 - 2020.04.07 at 13h 32m 00s.xml">
+      <configuration name="Register163Test.failedRegistertest1" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Register163Test_failedRegistertest1 - 2020.04.07 at 13h 33m 02s.xml">
+      <configuration name="Register163Test.failedRegistertest1" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Register163Test_failedRegistertest1_(2) - 2020.04.07 at 13h 34m 22s.xml">
+      <configuration name="Register163Test.failedRegistertest1 (2)" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Register163Test_failedRegistertest1 - 2020.04.07 at 13h 37m 57s.xml">
+      <configuration name="Register163Test.failedRegistertest1" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Register163Test_failedRegistertest1 - 2020.04.07 at 13h 42m 04s.xml">
+      <configuration name="Register163Test.failedRegistertest1" configurationId="TestNG" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1091" y="0" width="1217" height="1053" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4991119" visible="true" weight="0.5389326" />
+      <window_info id="Structure" order="1" sideWeight="0.5008881" side_tool="true" weight="0.5258093" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49896264" weight="0.543554" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.2361111" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.7955865" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50103736" side_tool="true" weight="0.3437863" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.31707317" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.6705069" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/target/surefire-reports/2020-04-03T16-05-21_854-jvmRun1.dump">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="76" lean-forward="true" selection-start-line="3" selection-start-column="34" selection-end-line="4" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/TestClass.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="82" selection-start-line="82" selection-end-line="82" />
+          <folding>
+            <element signature="e#2569#2570#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/internal/ClassHelper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="383" selection-start-line="383" selection-end-line="383" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/jre/lib/rt.jar!/sun/reflect/NativeConstructorAccessorImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/jre/lib/rt.jar!/sun/reflect/DelegatingConstructorAccessorImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/internal/ObjectFactoryImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/myTest/testNG.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/testing/FindElementsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="605">
+          <caret line="56" column="5" selection-start-line="56" selection-start-column="5" selection-end-line="56" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/JarFileUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1401">
+          <caret line="54" column="31" lean-forward="true" selection-start-line="54" selection-start-column="31" selection-end-line="54" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/3.9.1/selenium-api-3.9.1.jar!/org/openqa/selenium/WebDriver.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2542">
+          <caret line="126" column="5" selection-start-line="126" selection-start-column="5" selection-end-line="126" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-support/3.9.1/selenium-support-3.9.1.jar!/org/openqa/selenium/support/ui/Select.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="17" column="34" lean-forward="true" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-support/3.9.1/selenium-support-3.9.1.jar!/org/openqa/selenium/support/events/EventFiringWebDriver.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-100">
+          <caret line="181" column="18" selection-start-line="181" selection-start-column="18" selection-end-line="181" selection-end-column="18" />
+          <folding>
+            <element signature="e#6941#6942#0" expanded="true" />
+            <element signature="e#6993#6994#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-support/3.9.1/selenium-support-3.9.1.jar!/org/openqa/selenium/support/ui/WebDriverWait.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="18" column="11" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-remote-driver/3.9.1/selenium-remote-driver-3.9.1.jar!/org/openqa/selenium/interactions/Actions.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="198" column="19" selection-start-line="198" selection-start-column="19" selection-end-line="198" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/testing/WebElementsActionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="117" column="39" lean-forward="true" selection-start-line="117" selection-start-column="39" selection-end-line="117" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/awt/Robot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1325">
+          <caret line="88" column="11" selection-start-line="88" selection-start-column="11" selection-end-line="88" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-firefox-driver/3.9.1/selenium-firefox-driver-3.9.1.jar!/org/openqa/selenium/firefox/FirefoxProfile.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-firefox-driver/3.9.1/selenium-firefox-driver-3.9.1.jar!/org/openqa/selenium/firefox/FirefoxDriver.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="44" column="33" selection-start-line="44" selection-start-column="25" selection-end-line="44" selection-end-column="39" />
+          <folding>
+            <element signature="e#1062#1063#0" expanded="true" />
+            <element signature="e#1104#1105#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-firefox-driver/3.9.1/selenium-firefox-driver-3.9.1.jar!/org/openqa/selenium/firefox/FirefoxOptions.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="44" column="68" lean-forward="true" selection-start-line="44" selection-start-column="68" selection-end-line="44" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-chrome-driver/3.9.1/selenium-chrome-driver-3.9.1.jar!/org/openqa/selenium/chrome/ChromeDriver.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="46" column="37" selection-start-line="46" selection-start-column="24" selection-end-line="46" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-chrome-driver/3.9.1/selenium-chrome-driver-3.9.1.jar!/org/openqa/selenium/chrome/ChromeOptions.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1925">
+          <caret line="102" column="46" selection-start-line="102" selection-start-column="25" selection-end-line="102" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/testing/ExecuteJS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="455">
+          <caret line="35" column="49" lean-forward="true" selection-start-line="35" selection-start-column="49" selection-end-line="35" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/testing/WindowSelectTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-25">
+          <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day3/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/testing/ActionTest2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-65">
+          <caret line="96" column="34" lean-forward="true" selection-start-line="96" selection-start-column="34" selection-end-line="96" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/3.9.1/selenium-api-3.9.1.jar!/org/openqa/selenium/By.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="144" column="24" selection-start-line="144" selection-start-column="24" selection-end-line="144" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-support/3.9.1/selenium-support-3.9.1.jar!/org/openqa/selenium/support/pagefactory/ByAll.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/testing/MyTestCase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="591">
+          <caret line="36" column="5" selection-start-line="20" selection-start-column="4" selection-end-line="36" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day3/src/main/java/Register163Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="42" column="8" lean-forward="true" selection-start-line="42" selection-start-column="8" selection-end-line="42" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="15" selection-start-line="15" selection-end-line="18" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day3/src/main/java/GridParallelTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="65" selection-start-line="14" selection-start-column="65" selection-end-line="14" selection-end-column="65" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1415#1416#0" expanded="true" />
+            <element signature="e#1433#1434#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day3/src/main/resources/gridTest-testNg.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="37" lean-forward="true" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day3/src/main/java/GridTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="491">
+          <caret line="47" column="31" lean-forward="true" selection-start-line="47" selection-start-column="31" selection-end-line="47" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day3/src/main/resources/gridparallel-testNg.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" column="8" lean-forward="true" selection-end-line="48" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day4/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/testing/BasePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/testing/UIDemoPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#223#224#0" expanded="true" />
+            <element signature="e#243#244#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day4/src/main/java/com/po/page/LoginPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="32" selection-start-column="32" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day4/src/main/java/com/testing/testcases/LoginTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
